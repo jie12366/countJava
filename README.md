@@ -6,9 +6,9 @@
 ##### 方式一：
 
     git clone https://github.com/jie12366/countJava.git
-    cd countJava    
-    mvn package  
-    java -jar countword-0.0.1-SNAPSHOT 你的项目路径  
+    cd countJava
+    mvn package
+    java -jar countword-0.0.1-SNAPSHOT 你的项目路径
 
 ##### 方式二：
 

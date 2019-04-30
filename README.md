@@ -5,13 +5,13 @@
 
 ##### 方式一：
 
-git clone 
+  git clone 
 
-cd countword
+  cd countword
 
-mvn package
+  mvn package
 
-java -jar countword-0.0.1-SNAPSHOT 你的项目路径
+  java -jar countword-0.0.1-SNAPSHOT 你的项目路径
 
 ##### 方式二：
 

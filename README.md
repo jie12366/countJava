@@ -1,6 +1,9 @@
 # countJava  
 ### 计算java项目代码量或者计算MarkDown博客的字数。  
 
+#### 项目介绍：  
+详见博客：[多线程精准计算java代码量](https://blog.csdn.net/qq_40663357/article/details/89683846)
+
 #### 项目运行：
 
 ##### 方式一：
